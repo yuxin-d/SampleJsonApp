@@ -3,4 +3,8 @@ This is a sample example for a json App that may give you a hit of how to star w
 
 It is easy to use and clear to understand!
 
-[//]: # (![avatar]&#40;data:img/1.jpg&#41;)
+![avatar](https://github.com/yuxin-d/SampleJsonApp/blob/main/img/1.jpg)
+
+![avatar](https://github.com/yuxin-d/SampleJsonApp/blob/main/img/2.jpg)
+
+
